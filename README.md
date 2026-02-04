@@ -5,4 +5,4 @@
 ![Vista Previa](preview.png)
 
 ## Archivo del Registro de diseño
-[Registro de diseño](DESIGN_LOG.md)
+[Registro de diseño](DESIGN_LOG_1.md)
